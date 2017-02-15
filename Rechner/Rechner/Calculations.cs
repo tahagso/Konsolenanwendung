@@ -10,8 +10,8 @@ namespace Rechner
     {
         public int Calculate(int parametera, int parameterb)
         {
-            return parametera * parameterb;
-
+            return parametera * parameterb; 
+            
         }
     }
 }
